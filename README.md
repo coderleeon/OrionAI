@@ -1,6 +1,6 @@
-# OrionAI — Production Multi-Agent Inference Engine
+# CortexOps(OrionAI) — Production Multi-Agent Inference Engine
 
-> **OrionAI** is a scalable, production-grade agent orchestration system that routes user queries through a structured four-stage AI pipeline with memory, retry logic, structured JSON outputs, latency tracking, and a live monitoring dashboard.
+> **CortexOps(OrionAI)** is a scalable, production-grade agent orchestration system that routes user queries through a structured four-stage AI pipeline with memory, retry logic, structured JSON outputs, latency tracking, and a live monitoring dashboard.
 
 ---
 
